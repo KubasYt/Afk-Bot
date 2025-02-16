@@ -1,14 +1,14 @@
 {
   "bot-account": {
-    "username": "bot",
-    "password": "your_password",
+    "username": "player123",
+    "password": "Kubas.2010",
     "type": "microsoft"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.19.3"
+    "ip": "KupujSMP.aternos.me",
+    "port": 34088,
+    "version": "1.19.4"
   },
 
   "position": {
